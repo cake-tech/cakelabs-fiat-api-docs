@@ -1,5 +1,5 @@
 
-# Cake Wallet Fiat API
+# Cake Wallet Pricing API
 
 The guides and resources for the leading Cake Labs Pricing API.
 
