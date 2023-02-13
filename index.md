@@ -2,29 +2,28 @@
 layout: home
 title: Home
 nav_order: 1
-description: "Cake Wallet Guides and Support"
+description: "Cake Labs Pricing API Docs"
 permalink: /
 ---
 
 # Hello!
 
 {: .friendly}
-Thanks for using Cake Wallet! Cake Wallet is open source with a permissive MIT license. Thanks for supporting open source software ❤️
+Thanks for checking out the Cake Labs Pricing API!
 
-The Cake Wallet support staff want to make sure that you have an excellent user experience. We have staff working around the clock to respond to questions.
+The Cake Labs Pricing API has been designed specifically for noncustodial wallets, and it is used in [Cake Wallet](https://cakewallet.com) and [Monero.com](https://monero.com).
 
-Here you can find answers to the most common questions about Cake Wallet. If you don't find an answer to your question, contact us by email **support@cakewallet.com**, using [**Telegram**](https://t.me/cakewallet_bot), or using [**Twitter**](https://twitter.com/cakewallet).
+The API is custom-built to be easy to use, reliable, highly performant, and privacy-respecting. If you want to get access to the API, please email us!
 
-[Email support](mailto:support@cakewallet.com){: .btn .btn-blue .mr-4 }
-[Telegram support](https://t.me/cakewallet_bot){: .btn .btn-blue .mr-4 }
-[Twitter support](https://twitter.com/cakewallet){: .btn .btn-blue }
+[Email us!](mailto:partners@cakelabs.com){: .btn .btn-blue .mr-4 }
 
-## General info
+## Features
 
-Cake Wallet is a non-custodial wallet. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds.
+In making one of the world's most popular and trusted cryptocurrency wallets, we know a thing or two about serving high quality data to thousands of users at once. This fiat API service has been built from scratch to meet our goals.
 
-Click on a page or search for what you need help with. Support is only a click or message away!
-
-## Cake Wallet service status
-
-[**https://status.cakewallet.com**](https://status.cakewallet.com)
+* Extremely high performance and reliability, written from the ground up using the super-fast LMDB database.
+* Infinite scalability across multiple server regions.
+* Distributed and redundant, with support for unlimited price collection and end user quote delivery servers.
+* Optional load balancing on the same server network with a custom LMDB load balancer.
+* Low cost, with fast, low-resource lookups and delivery.
+* Privacy-respecting with no user logging.
