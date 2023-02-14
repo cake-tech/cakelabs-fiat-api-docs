@@ -54,3 +54,97 @@ Response with the default parameters:
 }
 ```
 
+## Requesting a spot crypto/fiat quote
+
+Example using XMR and USD:
+
+> https://fiat-api.cakewallet.com/v2/rates?interval_count=1&base=XMR&quote=USD
+
+Response:
+
+```
+{
+	"base":"XMR",
+	"errors":{},
+	"interval_count":1,
+	"interval_minutes":60,
+	"quote":"USD",
+	"results":{
+		"2023-02-14T16:00:06Z":158.49
+	},
+	"timestamp":"2023-02-14T16:01:36Z"
+}
+```
+
+## Requesting a spot crypto/crypto fiat quote
+
+Example using XMR and BTC:
+
+> https://fiat-api.cakewallet.com/v2/rates?interval_count=1&base=XMR&quote=BTC
+
+Response:
+
+```
+{
+	"base":"XMR",
+	"errors":{},
+	"interval_count":1,
+	"interval_minutes":60,
+	"quote":"BTC",
+	"results":{
+		"2023-02-14T16:06:36Z":0.007182635424822883
+	},
+	"timestamp":"2023-02-14T16:08:06Z"
+}
+```
+
+## Getting daily pricing for the last 30 days
+
+Example using BTC and JPY:
+
+> https://fiat-api.cakewallet.com/v2/rates?interval_minutes=1440&interval_count=30&base=BTC&quote=JPY
+
+Response:
+
+```
+{
+	"base":"BTC",
+	"errors":{},
+	"interval_count":30,
+	"interval_minutes":1440,
+	"quote":"JPY",
+	"results":{
+		"2023-01-16T16:13:44Z":2949930,
+		"2023-01-17T16:13:44Z":2949930,
+		"2023-01-18T16:13:44Z":2949930,
+		"2023-01-19T16:13:44Z":2949930,
+		"2023-01-20T16:13:44Z":2949930,
+		"2023-01-21T16:13:44Z":2999784.5,
+		"2023-01-22T16:13:44Z":2950202.5,
+		"2023-01-23T16:13:44Z":2992359,
+		"2023-01-24T16:13:44Z":2977552,
+		"2023-01-25T16:13:44Z":2937814.5,
+		"2023-01-26T16:13:44Z":2995734.5,
+		"2023-01-27T16:13:44Z":2991849,
+		"2023-01-28T16:13:44Z":2993742,
+		"2023-01-29T16:13:44Z":3058439,
+		"2023-01-30T16:13:44Z":3028999,
+		"2023-01-31T16:13:44Z":3012731,
+		"2023-02-01T16:13:44Z":2978868.5,
+		"2023-02-02T16:13:44Z":3056331,
+		"2023-02-03T16:13:44Z":3098853,
+		"2023-02-04T16:13:44Z":3073615,
+		"2023-02-05T16:13:44Z":3029889.5,
+		"2023-02-06T16:13:44Z":3060673,
+		"2023-02-07T16:13:44Z":3007616.5,
+		"2023-02-08T16:13:44Z":2997724.5,
+		"2023-02-09T16:13:44Z":2959453,
+		"2023-02-10T16:13:44Z":2849967,
+		"2023-02-11T16:13:44Z":2856813,
+		"2023-02-12T16:13:44Z":2887219.5,
+		"2023-02-13T16:13:44Z":2877421,
+		"2023-02-14T16:13:44Z":2929963
+	},
+	"timestamp":"2023-02-14T16:15:14Z"
+}
+```
