@@ -15,7 +15,7 @@ We only collect information about the number of used calls or used bandwidth for
 
 ### We offer onion (Tor) endpoints for all plans
 
-No special plan necessary! All API planholders get access to our high-performance onion (Tor) endpoint in additon to the clearnet endpoint, for no extra charge. Give your users peace of mind knowing that we can't collect information from them, even if we wanted to!
+No special plan necessary! All API planholders get access to our high-performance onion (Tor) endpoint in additon to the clearnet endpoint. Give your users peace of mind knowing that we can't collect information from them, even if we wanted to!
 
 ### Privacy is our DNA
 

@@ -9,6 +9,7 @@ parent: v2
 
 Query parameters:
 
+* (Required) `key`: your secret key
 * (Optional) `base`: the base symbol *(default value: XMR)*
 * (Optional) `quote`: the quote symbol *(default value: USDT)*
 * (Optional) `interval_minutes`: the amount of time in minutes to use between price points. *(default value: 60)*

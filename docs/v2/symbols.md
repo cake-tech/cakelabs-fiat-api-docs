@@ -9,7 +9,7 @@ parent: v2
 
 Query parameters:
 
-* None
+* (Required) `key`: your secret key
 
 Returns a full list of available symbols of both fiat and digital currencies.
 
