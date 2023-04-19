@@ -1,7 +1,13 @@
 
-# Cake Wallet Fiat API
+# Cake Wallet Pricing API
 
 The guides and resources for the Cake Labs Pricing API.
+
+## Contact sales
+
+Please email [partners@cakelabs.com](mailto:partners@cakelabs.com) to get in touch with us! [Click here](https://pricing-api-docs.cakelabs.com/) to learn more about our Pricing API.
+
+---
 
 ## Updating
 
