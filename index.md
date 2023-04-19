@@ -6,14 +6,14 @@ description: "Cake Labs Pricing API Docs"
 permalink: /
 ---
 
-# Hello!
+# Cake Labs Pricing API Docs
 
 {: .friendly}
 Thanks for checking out the Cake Labs Pricing API!
 
-The Cake Labs Pricing API has been designed specifically for noncustodial wallets, and it is used in [Cake Wallet](https://cakewallet.com) and [Monero.com](https://monero.com).
+The Cake Labs Pricing API has been designed specifically for non-custodial wallets, and it is used in [Cake Wallet](https://cakewallet.com) and [Monero.com](https://monero.com).
 
-The API is custom-built to be easy to use, reliable, highly performant, and privacy-respecting. If you want to get access to the API, please email us!
+The API is custom-built to be easy to use, reliable, highly performant, and [privacy-respecting](/docs/privacy). It's a perfect match for your application. If you want to get access to the API, please email us!
 
 [Email us!](mailto:partners@cakelabs.com){: .btn .btn-blue .mr-4 }
 
