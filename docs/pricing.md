@@ -21,7 +21,7 @@ There are two ways to pay for the API:
 ### Included in all plans
 
 * **Pay with crypto or fiat**: We accept BTC, XMR, USDC, USDT, and bank payments.
-* **No user logs**: [Privacy](/docs/privacy.md) is important to us, so the only thing that's tracked is your account's current API credit or total used bandwidth.
+* **No user logs**: [Privacy](/docs/privacy) is important to us, so the only thing that's tracked is your account's current API credit or total used bandwidth.
 * **Highly optimized API**: Save you and your users bandwidth.
 * **Tor support**: Make an onion (Tor) endpoint available to your users for maximum privacy. One Tor call costs two credits.
 * **Commercial use**: Use it for personal or commercial use for no additional charge.
@@ -71,7 +71,7 @@ You can place our service behind your domain for no additional charge. Only avai
 
 ### 100% SLA guarantee
 
-[Our SLA](/docs/sla.md) is included in our premium plans.
+[Our SLA](/docs/sla) is included in our premium plans.
 
 ### Public access code
 
