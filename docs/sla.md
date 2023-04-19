@@ -9,14 +9,15 @@ We care about running our service with high uptime, so we offer the following SL
 
 ## For prepaid shared plans
 
-You can purchase a SLA for 100 USD / month. If selected, we will apply credits by taking your then-current level of credit spend for the month and applying the following additional credits:
+You can purchase a SLA for a 100% credit premium (min $50 / month). If selected, we will apply credits by taking your then-current level of credit spend for the month and applying the following additional credits:
 
 | Monthly uptime percentage | Service credit percentage |
 | --- | --- |
 | 99.95 to 99% | 10% |
 | 99 to 98% | 20% |
 | 98 to 90% | 50% |
-| 90 to 0% | 100% |
+| 90 to 50% | 100% |
+| 50 to 0% | 200% |
 
 ## For premium dedicated plans
 
@@ -27,7 +28,8 @@ Your SLA is included at no extra charge! The service credit is a percentage of y
 | 99.95 to 99% | 10% |
 | 99 to 98% | 20% |
 | 98 to 90% | 50% |
-| 90 to 0% | 100% |
+| 90 to 50% | 100% |
+| 50 to 0% | 200% |
 
 ## Credit request
 
@@ -51,5 +53,3 @@ The SLA does not apply if the following situations occur:
 * Downtime results from any actions or inactions of the partner.
 * A partner exceeds usage limits.
 * One or more of our service providers experiences a global network outage or bankruptcy.
-
-Credits are provided at our discretion.
