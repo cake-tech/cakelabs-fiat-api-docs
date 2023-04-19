@@ -23,7 +23,7 @@ There are two ways to pay for the API:
 * **Pay with crypto or fiat**: We accept BTC, XMR, USDC, USDT, and bank payments.
 * **No user logs**: [Privacy](/docs/privacy) is important to us, so the only thing that's tracked is your account's current API credit or total used bandwidth.
 * **Highly optimized API**: Save you and your users bandwidth.
-* **Tor support**: Make an onion (Tor) endpoint available to your users for maximum privacy. One Tor call costs two credits.
+* **Tor support**: Make an onion (Tor) endpoint available to your users for maximum privacy. One Tor query costs two credits.
 * **Commercial use**: Use it for personal or commercial use for no additional charge.
 * **Massive or unlimited rate limits**: Make up to 20 connections per second, per IP address (not per key). Larger limits are available.
 * **Basic DDoS attack prevention**: One less thing to worry about.
@@ -49,7 +49,7 @@ You can optionally customize your own dedicated plan. The hardware isn't shared 
 
 Premium: (Regions) * ((Nodes + 1) * 70)
 
-| Regions | Delivery nodes per region (plus included balancer) | Monthly Cost |
+| Regions | Delivery nodes per region (plus included balancer) | Monthly cost |
 | --- | --- | --- |
 | 1 | 2 | 210 USD |
 | 2 | 2 | 420 USD |
@@ -87,7 +87,7 @@ Want lower latency for a specific region? We can set up dedicated nodes in many 
 
 Prepaid shared plan users can request a new region through sales. If you consistently use more than 1,000,000 credits a month, the price will be minimal.
 
-Dedicated plan users can add a new region with 2 delivery nodes in that region for approximately 180 USD / month.
+Dedicated plan users can add a new region with 2 delivery nodes in that region for approximately 210 USD / month.
 
 ### Higher rate limits
 

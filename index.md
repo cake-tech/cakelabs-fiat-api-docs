@@ -27,3 +27,4 @@ In making one of the world's most popular and trusted cryptocurrency wallets, we
 * Optional load balancing on the same server network with a custom LMDB load balancer.
 * Low cost, with fast, low-resource lookups and delivery.
 * Privacy-respecting with no user logging.
+* Fetch spot and historical pricing data (30+ days old) for thousands of fiat and cryptocurrency pairings.
